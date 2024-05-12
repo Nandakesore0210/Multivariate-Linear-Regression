@@ -42,7 +42,7 @@ predictCO2=regression.predict([[3300,1300]])
 print('CO2 required is ',predictCO2)
 ```
 ## Output:
-![alt text](image.png)
+![alt text](image-2.png)
 
 ### Insert your output
 ![alt text](image-1.png)
